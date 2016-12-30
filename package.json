@@ -1,0 +1,24 @@
+{
+  "name": "sandwichbot-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bombbomb/sandwichbot-api.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bombbomb/sandwichbot-api/issues"
+  },
+  "homepage": "https://github.com/bombbomb/sandwichbot-api#readme",
+  "dependencies": {
+    "Jimmy-Johns": "^0.1.2",
+    "aws-sdk": "latest",
+    "bcrypt": "^0.8.7"
+  }
+}
